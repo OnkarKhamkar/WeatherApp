@@ -1,0 +1,6 @@
+{
+    "editor.mouseWheelZoom": true,
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "typescript.inlayHints.parameterTypes.enabled": true,
+    "editor.wordWrap": "on"
+}
